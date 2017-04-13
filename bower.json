@@ -1,0 +1,21 @@
+{
+  "name": "rambo2015.github.io",
+  "homepage": "https://github.com/Rambo2015/rambo2015.github.io",
+  "authors": [
+    "Rambo2015 <844154912@qq.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1",
+    "bootstrap": "3"
+  }
+}
